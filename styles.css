@@ -1,0 +1,54 @@
+body {
+    background-color: antiquewhite;
+    font-family: cursive;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    flex: 1;
+}
+
+footer img {
+    width: 50px;
+}
+
+
+footer {
+    display: flex;
+}
+
+footer div {
+    flex: 1;
+}
