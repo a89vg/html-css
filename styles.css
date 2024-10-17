@@ -38,7 +38,6 @@ nav li {
 }
 
 nav a {
-    display: inline;
     color:beige;
     text-decoration: none;
     padding: 10px;
@@ -70,7 +69,6 @@ section.content2 > article {
 
 section.content2 img {
     display: block;
-
     width: 100%;
 }
 
